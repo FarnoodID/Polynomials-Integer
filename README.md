@@ -6,7 +6,7 @@ You can use this format for entering your polynomials. ``+9x^3-6x^4-3x^0``. Note
 
 ![Example image](./Integer.png)
 
-Check out [Polynomials-Integer](https://github.com/FarnoodID/Polynomials-Integer) for a similar program that operates on polynomials with integer coefficients.
+Check out [Polynomials-Fraction](https://github.com/FarnoodID/Polynomials-Fraction) for a similar program that operates on polynomials with fraction coefficients.
 
 To compile the C++ program, use the following command:
 ```bash
